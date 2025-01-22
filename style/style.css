@@ -375,9 +375,9 @@ footer{
     gap: 10px;
     margin-top: 32px;
   }
-  #style{
+  #marquee-style{
     font-size: 4rem;
-    color: red;
+    color: #95B226;
     font-weight: bold;
   }
   @media screen and (max-width:576px) {
